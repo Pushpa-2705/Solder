@@ -1,5 +1,5 @@
 # Simple PCB that glows up
 Submission for Solder YSWS
-![pcb](pcb.png)
+![pcb](PCB.png)
 ![sch](sch.png)
-![3d](3d.png)
+![3d](3D.png)
